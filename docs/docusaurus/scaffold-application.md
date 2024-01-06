@@ -22,4 +22,4 @@ or alternatively create the app with Yarn
 yarn create docusaurus
 ```
 
-For more follow the instructions [here](https://docusaurus.io/docs/installation)
+_For additional information, click [here](https://docusaurus.io/docs/installation)_

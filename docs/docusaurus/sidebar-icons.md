@@ -4,8 +4,8 @@
 
 > Here is one way you can add icon next to each sidebar menu text in three steps
 
-1. Add the png or svg icons you want to use into `static/img` directory
-2. Add css to use the icons
+1. Add the png or svg icons you want to use into `static/img` directory.
+2. Add the following css to use the icons (replace the background url with yours).
 
 ```css title="src/css/custom.css"
 .icon > div::before {
@@ -24,7 +24,7 @@
 }
 ```
 
-3. Add the classes `icon docusaurus-icon` into `_category_.json` file
+3. Add the classes `icon docusaurus-icon` into `_category_.json` file.
 
 ```json title="_category_.json"
 {

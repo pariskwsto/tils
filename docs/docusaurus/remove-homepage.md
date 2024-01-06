@@ -4,8 +4,8 @@
 
 Remove Homepage and land on Docs directly
 
-1. Delete or archive your `src/pages/index.js` file
-2. Add the following `routeBasePath` attribute in `docusaurus.config.js` file
+1. Delete or archive your `src/pages/index.js` file.
+2. Add the `routeBasePath` attribute in `docusaurus.config.js` file.
 
 ```js title="docusaurus.config.js"
 module.exports = {
@@ -23,7 +23,7 @@ module.exports = {
 };
 ```
 
-3. Go to the md file that you want to be the landing page (e.g. docs/intro.md) and add this at the top
+3. Go to the md file that you want to be the landing page (e.g. docs/intro.md) and add this at the top.
 
 ```md title="docs/intro.md"
 ---
@@ -33,4 +33,4 @@ sidebar_position: 1
 ---
 ```
 
-For more follow the instructions [here](https://docusaurus.io/docs/docs-introduction#docs-only-mode)
+_Explore more by clicking [here](https://docusaurus.io/docs/docs-introduction#docs-only-mode)_
