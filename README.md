@@ -1,41 +1,21 @@
-# Website
+# TILs
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+> TILs is a curated collection of my insights, notes, and personal discoveries as a software developer
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
+## Install dependencies
 
 ```
-$ yarn start
+make install
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
+## Start local development
 
 ```
-$ yarn build
+make start
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
+## Build application
 
 ```
-$ USE_SSH=true yarn deploy
+make build
 ```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

@@ -1,6 +1,7 @@
 {
   "name": "tils",
-  "version": "0.0.0",
+  "description": "TILs is a curated collection of my insights, notes, and personal discoveries as a software developer",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -16,6 +17,7 @@
   },
   "dependencies": {
     "@docusaurus/core": "3.1.0",
+    "@docusaurus/plugin-google-gtag": "^3.1.0",
     "@docusaurus/preset-classic": "3.1.0",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
