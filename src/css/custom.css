@@ -51,6 +51,13 @@
   background-position: center;
 }
 
+.ubuntu-icon > div::before {
+  background: url('/static/img/icons/ubuntu.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 .vs-code-icon > div::before {
   background: url('/static/img/icons/vs-code.png');
   background-size: contain;
