@@ -22,6 +22,14 @@ How-tos and setup instructions for Documentation Site generators.
 | ---------------------------------- |
 | [Docusaurus](/category/docusaurus) |
 
+## 🚀 JS Libraries/Frameworks
+
+Utilities and helpers for popular JavaScript libraries and frameworks.
+
+|                          |
+| ------------------------ |
+| [React](/category/react) |
+
 ## 🐧 Linux Systems
 
 Useful instructions for various Linux distributions.

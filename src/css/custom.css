@@ -38,28 +38,35 @@
 }
 
 .docusaurus-icon > div::before {
-  background: url('/static/img/icons/docusaurus.png');
+  background: url('/static/img/tech-icons/docusaurus.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .git-icon > div::before {
-  background: url('/static/img/icons/git.svg');
+  background: url('/static/img/tech-icons/git.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.react-icon > div::before {
+  background: url('/static/img/tech-icons/react.svg');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .ubuntu-icon > div::before {
-  background: url('/static/img/icons/ubuntu.png');
+  background: url('/static/img/tech-icons/ubuntu.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .vscode-icon > div::before {
-  background: url('/static/img/icons/vscode.png');
+  background: url('/static/img/tech-icons/vscode.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;

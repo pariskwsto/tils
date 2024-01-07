@@ -17,7 +17,7 @@
 }
 
 .docusaurus-icon > div::before {
-  background: url('/static/img/icons/docusaurus.png');
+  background: url('/static/img/tech-icons/docusaurus.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
