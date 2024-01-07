@@ -58,8 +58,8 @@
   background-position: center;
 }
 
-.vs-code-icon > div::before {
-  background: url('/static/img/icons/vs-code.png');
+.vscode-icon > div::before {
+  background: url('/static/img/icons/vscode.png');
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;

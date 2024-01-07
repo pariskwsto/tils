@@ -2,7 +2,7 @@
 
 ## Instructions
 
-- Navigate to VS Code -> `Settings` -> `User Snippets`
+- Navigate to VSCode -> `Settings` -> `User Snippets`
 - Select the option `New Global Snippets File...`
 - Add your snippets json file
 
