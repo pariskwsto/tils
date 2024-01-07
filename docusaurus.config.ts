@@ -27,7 +27,6 @@ const config: Config = {
     ],
   ],
   themeConfig: {
-    image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'TILs',
       logo: {
